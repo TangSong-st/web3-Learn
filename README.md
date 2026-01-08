@@ -9,3 +9,9 @@ Simple React app built with Create React App.
 ## Tech
 - React
 - JavaScript
+
+
+# Day 2 - Mini Chat & Counter
+- Counter + Mini Chat
+- Input + Add / Remove
+- Auto-scroll
